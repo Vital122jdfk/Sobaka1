@@ -17,9 +17,9 @@ namespace _1_PR
             this.poroda = poroda;
             this.vozrast = vozrast;
         }
-        //static void Main(string[] args)
-        //{
+        static void Main(string[] args)
+        {
 
-        //}
+        }
     }
 }
