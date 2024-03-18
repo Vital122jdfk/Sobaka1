@@ -11,12 +11,6 @@ namespace _1_PR
         public string klichka { get; set; }
         public string poroda { get; set; }
         public float vozrast { get; set; }
-        public Sobaka(string klichka, string poroda, float vozrast)
-        {
-            this.klichka = klichka;
-            this.poroda = poroda;
-            this.vozrast = vozrast;
-        }
         static void Main(string[] args)
         {
 
